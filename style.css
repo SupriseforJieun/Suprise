@@ -24,14 +24,6 @@
     object-fit: fill;
 }
 
-
-.slider img1 {
-    flex: 1 0 100%;
-    scroll-snap-align: start;
-    object-fit: scale-down;
-}
-
-
 .slider-nav {
     display: flex;
     column-gap: 1rem;
