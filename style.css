@@ -24,12 +24,11 @@
     object-fit: fill;
 }
 
-}
 
 .slider img1 {
     flex: 1 0 100%;
     scroll-snap-align: start;
-    object-fit: fill;
+    object-fit: scale-down;
 }
 
 
